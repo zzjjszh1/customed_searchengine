@@ -15,9 +15,12 @@ refer to : [https://cse.google.com](https://cse.google.com)
 ## How to Use
 
 1. Download the json file from github
-2. Copy content to the setting of Xuender
+2. Copy content to the setting of Xuender  
+
 ![](./img/paste.png)
-3. Begin use
+
+3. Begin use  
+
 ![](./img/begin.png)
 
 
@@ -168,3 +171,5 @@ https://publishing.cdlib.org/ucpressebooks/search?keyword=%s&fieldList=text+titl
 ```
 ## Scripts Used to Generate the Configuration File
 
+- [右键搜配置文件生成脚本](./scipts)
+- [CSE配置文件生成脚本](./scripts)
