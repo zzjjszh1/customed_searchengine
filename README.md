@@ -171,5 +171,5 @@ https://publishing.cdlib.org/ucpressebooks/search?keyword=%s&fieldList=text+titl
 ```
 ## Scripts Used to Generate the Configuration File
 
-- [右键搜配置文件生成脚本](./scipts)
-- [CSE配置文件生成脚本](./scripts)
+- [右键搜配置文件生成脚本](https://github.com/zzjjszh1/customed_searchengine/blob/master/scripts/google%20CSE%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.py)
+- [CSE配置文件生成脚本](https://github.com/zzjjszh1/customed_searchengine/blob/master/scripts/google%20CSE%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.py)
